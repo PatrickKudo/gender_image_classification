@@ -8,7 +8,7 @@ This is because we added label 1 to parasited images.
 In summary, probability result close to 1 reflects infected (parasited) image 
 and close to 0 reflects uninfected image
 """
-
+### Patrick's change
 import matplotlib.pyplot as plt
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D
