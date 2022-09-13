@@ -1,2 +1,2 @@
-# daan570-group9
+DAAN 570 Group Project
 Image Classification Project
