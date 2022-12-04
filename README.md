@@ -1,4 +1,4 @@
-Penn State DAAN 570 Group Project
+Penn State DAAN 570 Group Project (AU 2022)
 
 Gender Image Classification 
 
